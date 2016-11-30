@@ -3,3 +3,5 @@
 Master - Começo do Programa Arquivo Inicial;
 
 0.1 - Foi trocado os botoes do sinal de alerda para Ignorar e Confirmar;
+
+0.2 - Foi acresentado a Tela de Venda;
