@@ -4,4 +4,13 @@ Master - Começo do Programa Arquivo Inicial;
 
 0.1 - Foi trocado os botoes do sinal de alerda para Ignorar e Confirmar;
 
-0.2 - Foi acresentado a Tela de Venda;
+0.2 - Foi acrescentada a Tela de Venda de Produtos;
+
+0.3 - Foram acrescentadas 6 telas.
+
+	->Tela 06 - Agendamento de Serviço ( Parte 01 ); 
+	->Tela 07 - Agendamento de Serviço ( Parte 02 );
+	->Tela 08 - Cadastro de Cliente ( Parte 01 );
+	->Tela 09 - Cadastro de Cliente ( Parte 02 );
+	->Tela 10 - Cadastro de Fornecedor ( Parte 01 );
+	->Tela 11 - Cadastro de Fornecedor ( Parte 02 );
