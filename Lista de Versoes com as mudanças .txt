@@ -22,3 +22,7 @@ Master - Começo do Programa Arquivo Inicial;
 	->Tela 15 - Gerar Relatorio ( Parte 03 );
 	->Tela 16 - Gerar Relatorio ( Parte 04 );
 	->Tela 17 - Gerar Relatorio ( Parte 00 );
+
+0.5 - Foi acresentado 
+	->Tela 18 - Cadastro de Funcionario;
+	->Tela 04 - Foi acresentado botao de cadastro de cliente;
