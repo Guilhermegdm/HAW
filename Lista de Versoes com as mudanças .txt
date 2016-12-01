@@ -14,3 +14,11 @@ Master - Começo do Programa Arquivo Inicial;
 	->Tela 09 - Cadastro de Cliente ( Parte 02 );
 	->Tela 10 - Cadastro de Fornecedor ( Parte 01 );
 	->Tela 11 - Cadastro de Fornecedor ( Parte 02 );
+
+0.4 - Foram acrescentadas 6 telas.
+	->Tela 12 - Cadastro de Produto; 
+	->Tela 13 - Gerar Relatorio ( Parte 01 );
+	->Tela 14 - Gerar Relatorio ( Parte 02 );
+	->Tela 15 - Gerar Relatorio ( Parte 03 );
+	->Tela 16 - Gerar Relatorio ( Parte 04 );
+	->Tela 17 - Gerar Relatorio ( Parte 00 );
